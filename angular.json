@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "challenge-form"
+    }
+  },
+  "defaultProject": "challenge-form",
+  "cli": {
+    "analytics": "c71389de-540f-446b-9048-75c7f8d85ffa"
+  }
 }
